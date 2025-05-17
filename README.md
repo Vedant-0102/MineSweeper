@@ -1,12 +1,50 @@
-# React + Vite
+# Minesweeper Game  
+A modern, fully interactive Minesweeper game built with React. Test your logic and speed by revealing all non-mine cells while carefully flagging every hidden mine.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Features
+- Custom-designed 9×9 grid with 10 hidden mines
+- Flag and unflag suspected mine cells with right-click
+- Real-time timer and score system
+- Dynamic win/loss detection with animations
+- Restart and new game options
+- Visual feedback for correct and incorrect flags
+- Confetti effect on winning
+- Responsive layout for desktop and mobile
 
-Currently, two official plugins are available:
+## Screenshots
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Gameplay:
+![Gameplay](https://github.com/user-attachments/assets/2069a0bd-6b16-47af-a377-7f624e5d5bd8)
 
-## Expanding the ESLint configuration
+### Game Board:
+![Game Board](https://github.com/user-attachments/assets/05f113cb-3f01-4d7e-88a4-c38208bd21a9)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+## Installation & Setup
+
+### Clone the Repository
+```sh
+git clone https://github.com/Vedant-0102/MineSweeper.git
+```
+
+### Install Dependencies
+```sh
+npm install
+```
+
+### Run the Development Server
+```sh
+npm run dev
+```
+Open [http://localhost:5173](http://localhost:5173) in your browser.
+
+```sh
+npm run dev
+```
+## Technologies Used
+- **React** (Component-based UI)
+- **Vite** (Blazing Fast Build Tool)
+- **CSS Modules** (Styling)
+
+## License
+This project is publicly accessible, but the code is not available for reuse or modification.
