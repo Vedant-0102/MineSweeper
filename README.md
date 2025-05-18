@@ -38,9 +38,6 @@ npm run dev
 ```
 Open [http://localhost:5173](http://localhost:5173) in your browser.
 
-```sh
-npm run dev
-```
 ## Technologies Used
 - **React** (Component-based UI)
 - **Vite** (Blazing Fast Build Tool)
