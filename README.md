@@ -29,7 +29,7 @@ git clone https://github.com/Vedant-0102/MineSweeper.git
 
 ### Install Dependencies
 ```sh
-npm install
+npm install @fortawesome/fontawesome-svg-core @fortawesome/free-solid-svg-icons @fortawesome/react-fontawesome react-dom-confetti
 ```
 
 ### Run the Development Server
